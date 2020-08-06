@@ -1,0 +1,21 @@
+- name: Rainfall Prediction Model
+  url: https://github.com/Godskid89/rainfall-prediction-using-ARIMA-ANN-LSTM/blob/master/Rainfall%20(4).ipynb
+  code: https://github.com/Godskid89/rainfall-prediction-using-ARIMA-ANN-LSTM/blob/master/Rainfall%20(4).ipynb
+  description: An Experimentation of ARIMA, ANN and LSTM to predict rainfall in Scotland using Satellite precipatation data and station rainfall observation
+  used:
+  - thing: Python
+  - thing: Machine & Deep learning
+
+- name: Customer Segmentation
+  url: https://github.com/Godskid89/customer_segmentation/blob/master/Customer_segmentation.ipynb
+  code: https://github.com/Godskid89/customer_segmentation/blob/master/Customer_segmentation.ipynb
+  description: A customer segmentation analysis
+  used:
+  - thing: Python
+
+- name: African Crisis Analysis
+  url: https://github.com/Godskid89/African_crisis_analysis
+  code: https://github.com/Godskid89/African_crisis_analysis
+  description: Analysis of crisis that has engulf Africa over the years
+  used:
+  - thing: Python
