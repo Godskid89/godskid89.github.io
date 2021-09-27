@@ -20,6 +20,8 @@ tools:
   - item: Tableau/Kibana/Power BI
   - item: Postman
   - item: Docker
+  - item: Airflow
+  - item: luigid
 
 deployment:
   - item: Google Cloud Platform
