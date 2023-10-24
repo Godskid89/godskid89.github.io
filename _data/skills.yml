@@ -26,5 +26,5 @@ tools:
 deployment:
   - item: Google Cloud Platform
   - item: Amazon Web Services
-  - item: Microsoft Azure DevOps
+  - item: Microsoft Azure
   - item: Docker
